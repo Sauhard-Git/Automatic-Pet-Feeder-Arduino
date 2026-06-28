@@ -135,9 +135,8 @@ This project demonstrates the practical application of **Embedded Systems**, **A
 
 # 📸 Project Preview
 
-<p align="center">
-  <img src="Images/petfeeder.jpeg" width="800"/>
-</p>
+<img width="1600" height="720" alt="petfeeder" src="https://github.com/user-attachments/assets/2691d123-7c6c-4a6f-8ed1-739c22bae15b" />
+
 
 🎥 Demo Video
 
