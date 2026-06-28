@@ -135,15 +135,15 @@ This project demonstrates the practical application of **Embedded Systems**, **A
 
 # 📸 Project Preview
 
-> Add your project images here.
-
-📷 Prototype Image
-
-📷 Circuit Diagram
-
-📷 Working Images
+<p align="center">
+  <img src="Images/petfeeder.jpeg" width="800"/>
+</p>
 
 🎥 Demo Video
+
+
+https://github.com/user-attachments/assets/4a456cee-077c-40db-bc70-20f583fca21e
+
 
 ---
 
