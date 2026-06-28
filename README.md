@@ -139,7 +139,7 @@ This project demonstrates the practical application of **Embedded Systems**, **A
 
 ---
 
-# 🎥 Demo Video
+# 🎥 Demo
 
 
 https://github.com/user-attachments/assets/4a456cee-077c-40db-bc70-20f583fca21e
